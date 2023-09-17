@@ -1,0 +1,9 @@
+.center{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h2{
+  font-size: 11em;
+  margin-bottom: 30px;
+}

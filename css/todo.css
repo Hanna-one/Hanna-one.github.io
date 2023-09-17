@@ -1,0 +1,24 @@
+form#todo-form .todo-input{
+  font-size: 40px;
+  text-align: center;
+  opacity: 0.9;
+  border: none;
+  outline: none;
+  background: none;
+}
+form#todo-form .todo-input::placeholder{
+  color: #DDD;
+}
+form#todo-form p{
+  margin-top: 0px;
+  border-top: 3px solid #FFF;
+}
+ul#todo-list li{
+  font-size: 25px;
+}
+ul#todo-list span{
+  margin-right: 5px;
+}
+ul#todo-list button{
+  border: none;
+}
